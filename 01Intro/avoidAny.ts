@@ -1,5 +1,5 @@
 // Avoid using any
-// If we want every team member to avoid using any, we can add noImplicitAny flag as true in tsconfig.json file
+// If we want every team member to avoid using any, we can add noImplicitAny flag as true in tsconfig.json file which will not allow anny type
 
 // let hero; istead of doing this, assign it with some type
 let hero: string;
